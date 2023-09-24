@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/bonisitalian/static/css/main.073c9b0a.css",
-    "main.js": "/bonisitalian/static/js/main.3104f296.js",
-    "static/js/787.62449090.chunk.js": "/bonisitalian/static/js/787.62449090.chunk.js",
-    "static/media/logo.svg": "/bonisitalian/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/bonisitalian/static/css/main.31d6cfe0.css",
+    "main.js": "/bonisitalian/static/js/main.d894b193.js",
     "index.html": "/bonisitalian/index.html",
-    "main.073c9b0a.css.map": "/bonisitalian/static/css/main.073c9b0a.css.map",
-    "main.3104f296.js.map": "/bonisitalian/static/js/main.3104f296.js.map",
-    "787.62449090.chunk.js.map": "/bonisitalian/static/js/787.62449090.chunk.js.map"
+    "main.d894b193.js.map": "/bonisitalian/static/js/main.d894b193.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3104f296.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d894b193.js"
   ]
 }
