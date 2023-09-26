@@ -1,12 +1,18 @@
 {
   "files": {
-    "main.css": "/bonisitalian/static/css/main.31d6cfe0.css",
-    "main.js": "/bonisitalian/static/js/main.48f13b9d.js",
+    "main.css": "/bonisitalian/static/css/main.792629a3.css",
+    "main.js": "/bonisitalian/static/js/main.7e6b9ebf.js",
+    "static/media/spaghetti.png": "/bonisitalian/static/media/spaghetti.da57d5aa259689d2f6f9.png",
+    "static/media/location.png": "/bonisitalian/static/media/location.32bfbb5e24af262fc088.png",
+    "static/media/cj.jpg": "/bonisitalian/static/media/cj.8e7d066ae4fbf406fa48.jpg",
+    "static/media/Brian.jpg": "/bonisitalian/static/media/Brian.2dabc83864a016429a09.jpg",
+    "static/media/logo.svg": "/bonisitalian/static/media/logo.30de3f493e387ee33544e2ab52529c3c.svg",
     "index.html": "/bonisitalian/index.html",
-    "main.48f13b9d.js.map": "/bonisitalian/static/js/main.48f13b9d.js.map"
+    "main.792629a3.css.map": "/bonisitalian/static/css/main.792629a3.css.map",
+    "main.7e6b9ebf.js.map": "/bonisitalian/static/js/main.7e6b9ebf.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.48f13b9d.js"
+    "static/css/main.792629a3.css",
+    "static/js/main.7e6b9ebf.js"
   ]
 }
